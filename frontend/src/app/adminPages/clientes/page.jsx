@@ -125,7 +125,7 @@ export default function Clientes() {
                       <strong>8.290 kWh</strong>
                     </td>
                     <td>
-                      <span class="badge-status ativo">● Ativo</span>
+                      <span className="badge-status ativo">● Ativo</span>
                     </td>
                     <td>
                       <button type="button" className="btn-opcoes">
@@ -149,7 +149,7 @@ export default function Clientes() {
                       <strong>21.560 kWh</strong>
                     </td>
                     <td>
-                      <span class="badge-status pendente">● Pendente</span>
+                      <span className="badge-status pendente">● Pendente</span>
                     </td>
                     <td>
                       <button type="button" className="btn-opcoes">
@@ -173,7 +173,7 @@ export default function Clientes() {
                       <strong>2.130 kWh</strong>
                     </td>
                     <td>
-                      <span class="badge-status inativo">● Inativo</span>
+                      <span className="badge-status inativo">● Inativo</span>
                     </td>
                     <td>
                       <button type="button" className="btn-opcoes">
@@ -197,7 +197,7 @@ export default function Clientes() {
                       <strong>7.480 kWh</strong>
                     </td>
                     <td>
-                      <span class="badge-status ativo">● Ativo</span>
+                      <span className="badge-status ativo">● Ativo</span>
                     </td>
                     <td>
                       <button type="button" className="btn-opcoes">
